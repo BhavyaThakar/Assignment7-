@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Assignment7/app/src/main/res/drawable/layout_br.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Assignment7/app/src/main/res/layout/activity_forecaset.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Assignment7/app/src/main/res/layout/activity_main.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Assignment7/app/src/main/res/layout/activity_maps.xml" value="0.2948539638386648" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Assignment7/app/src/main/res/layout/raw_location.xml" value="0.2977777777777778" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Assignment7/app/src/main/res/menu/map_options.xml" value="0.4444444444444444" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Assignment7/app/src/main/res/xml/network_security.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
